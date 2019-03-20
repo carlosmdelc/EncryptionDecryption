@@ -12,7 +12,7 @@ namespace MainApp
         static void Main(string[] args)
         {
             var myRSA = new RSA();
-            myRSA.GeneratePublicAndPrivateKeyData("Carlos");
+            myRSA.GeneratePublicAndPrivateKeyData("Carlos");            
 
             Console.ReadKey();
         }
