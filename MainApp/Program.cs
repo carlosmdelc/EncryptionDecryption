@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RivestShamirAdlemanRSA;
 
 namespace MainApp
 {
@@ -10,6 +11,10 @@ namespace MainApp
     {
         static void Main(string[] args)
         {
+            var myRSA = new RSA();
+            myRSA.GeneratePublicAndPrivateKeyData("Carlos");
+
+            Console.ReadKey();
         }
     }
 }

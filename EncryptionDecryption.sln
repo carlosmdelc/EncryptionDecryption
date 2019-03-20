@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApp", "MainApp\MainApp.csproj", "{395C6FAE-CAF7-4096-939B-B47D463747E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RivestShamirAdlemanRSA", "RivestShamirAdlemanRSA\RivestShamirAdlemanRSA.csproj", "{5DC77836-3F65-4083-8097-0493A870CF3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{395C6FAE-CAF7-4096-939B-B47D463747E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{395C6FAE-CAF7-4096-939B-B47D463747E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{395C6FAE-CAF7-4096-939B-B47D463747E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC77836-3F65-4083-8097-0493A870CF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC77836-3F65-4083-8097-0493A870CF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC77836-3F65-4083-8097-0493A870CF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC77836-3F65-4083-8097-0493A870CF3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
